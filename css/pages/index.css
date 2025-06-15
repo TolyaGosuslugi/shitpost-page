@@ -1,0 +1,18 @@
+.left, .right {
+    width: 50%;
+    height: 100vh;
+    padding: 5% 5%;
+}
+
+.left {
+    border-right: 3px solid black;
+}
+.right {
+    border-left: 3px solid black;
+}
+
+/* |||||||||||||  Files List  ||||||||||||| */
+
+.files__item a {
+    color: white;
+}
